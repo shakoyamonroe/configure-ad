@@ -31,11 +31,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Deploy **Windows Server 2022** as the Domain Controller.
 - Deploy **Windows 10 (21H2)** as a client machine.
 - Connect both machines via **Remote Desktop**.
+  
+<img width="616" alt="Screenshot 2025-03-09 at 8 43 11 PM" src="https://github.com/user-attachments/assets/cbf8e16b-132d-486a-9839-2c6742f247cc" />
 
+  
 ### 2️⃣ Install and Configure Active Directory Domain Services
 - Open **Server Manager** → **Add Roles and Features**.
 - Select **Active Directory Domain Services (AD DS)** and install it.
 - Promote the server to a **Domain Controller**.
+
 
 ### 3️⃣ Create and Manage User Accounts & OUs
 - Open **Active Directory Users and Computers (ADUC)**.

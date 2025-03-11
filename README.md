@@ -5,10 +5,6 @@
 # On-premises Active Directory Deployed in the Cloud (Azure)
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
 
-## 🎥 Video Demonstration
-- **[YouTube: How to Deploy on-premises Active Directory within Azure Compute]
-- https://youtu.be/cwlVz4tD8pk?si=xaauLzk1VpqO7d8G
-
 ## 🌍 Environments and Technologies Used
 - **Microsoft Azure** (Virtual Machines/Compute)
 - **Remote Desktop**
